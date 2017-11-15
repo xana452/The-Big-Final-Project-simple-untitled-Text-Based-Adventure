@@ -1,2 +1,2 @@
 ﻿  CIS150_Final Project_.cpp
-  CIS150_Final Project_.vcxproj -> C:\Users\xana4\Documents\Computer Science I\The Big Final Project, simple untitled Text Based Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
+c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(39): error C3861: 'Hallway1': identifier not found
