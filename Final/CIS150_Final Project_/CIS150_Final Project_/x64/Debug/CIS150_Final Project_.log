@@ -1,1 +1,6 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+﻿  CIS150_Final Project_.cpp
+c:\users\sebastian\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(31): warning C4101: 'playerAt': unreferenced local variable
+c:\users\sebastian\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(141): warning C4101: 'playerAt': unreferenced local variable
+c:\users\sebastian\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(179): warning C4715: 'StartingCell': not all control paths return a value
+  CIS150_Final Project_.vcxproj -> C:\Users\Sebastian\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\x64\Debug\CIS150_Final Project_.exe
+  CIS150_Final Project_.vcxproj -> C:\Users\Sebastian\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\x64\Debug\CIS150_Final Project_.pdb (Full PDB)
