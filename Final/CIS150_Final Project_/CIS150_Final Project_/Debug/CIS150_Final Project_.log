@@ -1,2 +1,5 @@
 ﻿  CIS150_Final Project_.cpp
-c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(43): error C3861: 'Hallway1': identifier not found
+c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(46): warning C4101: 'playerAt': unreferenced local variable
+c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(91): warning C4101: 'playerAt': unreferenced local variable
+c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(81): warning C4715: 'StartingCell': not all control paths return a value
+  CIS150_Final Project_.vcxproj -> C:\Users\xana4\Documents\Computer Science I\The Big Final Project, simple untitled Text Based Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
