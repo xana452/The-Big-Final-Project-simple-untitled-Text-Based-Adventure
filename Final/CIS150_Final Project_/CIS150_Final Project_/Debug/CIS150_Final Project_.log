@@ -1,5 +1,7 @@
 ﻿  CIS150_Final Project_.cpp
-c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(58): warning C4101: 'playerAt': unreferenced local variable
-c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(103): warning C4101: 'playerAt': unreferenced local variable
-c:\users\xana4\documents\computer science i\the big final project, simple untitled text based adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(93): warning C4715: 'StartingCell': not all control paths return a value
-  CIS150_Final Project_.vcxproj -> C:\Users\xana4\Documents\Computer Science I\The Big Final Project, simple untitled Text Based Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(31): warning C4101: 'playerAt': unreferenced local variable
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(67): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(122): warning C4101: 'playerAt': unreferenced local variable
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(157): warning C4715: 'StartingCell': not all control paths return a value
+  CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
+  CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.pdb (Partial PDB)
