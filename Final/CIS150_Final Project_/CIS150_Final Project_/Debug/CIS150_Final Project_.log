@@ -1,6 +1,7 @@
 ﻿  CIS150_Final Project_.cpp
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(175): warning C4101: 'playerAt': unreferenced local variable
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(229): warning C4101: 'playerAt': unreferenced local variable
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(275): warning C4715: 'StartingCell': not all control paths return a value
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(269): warning C4101: 'playerAt': unreferenced local variable
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(330): warning C4101: 'playerAt': unreferenced local variable
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(387): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(376): warning C4715: 'StartingCell': not all control paths return a value
   CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
   CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.pdb (Partial PDB)
