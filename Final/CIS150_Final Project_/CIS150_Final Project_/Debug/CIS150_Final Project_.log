@@ -1,8 +1,9 @@
 ﻿  CIS150_Final Project_.cpp
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(1285): warning C4018: '<': signed/unsigned mismatch
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2030): warning C4101: 'playerAt': unreferenced local variable
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2091): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2094): warning C4551: function call missing argument list
-c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2075): warning C4715: 'StartingCell': not all control paths return a value
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(1485): warning C4018: '<': signed/unsigned mismatch
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2230): warning C4101: 'playerAt': unreferenced local variable
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2291): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2294): warning C4551: function call missing argument list
+c:\users\joshu\documents\github\the-big-final-project-simple-untitled-text-based-adventure\final\cis150_final project_\cis150_final project_\cis150_final project_.cpp(2275): warning C4715: 'StartingCell': not all control paths return a value
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
   CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.exe
   CIS150_Final Project_.vcxproj -> C:\Users\joshu\Documents\GitHub\The-Big-Final-Project-simple-untitled-Text-Based-Adventure\Final\CIS150_Final Project_\Debug\CIS150_Final Project_.pdb (Partial PDB)
